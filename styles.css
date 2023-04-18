@@ -55,4 +55,5 @@ p {
 .social-icon {
     margin: 5px;
     cursor:pointer; 
+    border: white 3px solid;
 }
